@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>
-		test git
+		test git now in github
 	</title>
 </head>
 <body>
